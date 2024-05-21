@@ -1,15 +1,25 @@
 # Boardgames
 #Required Files
+
 **driver.py**
+
 Contain a main function
+
 **executive.py**
+
 Contain an Executive class
+
 Handle file I/O and user interaction
+
 Creates a list of board games by extracting the information from file
+
 **boardgame.py**
+
 Contain a BoardGame class
 
+
 #File format
+
 The file contains several rows, each row contains the information for a single game.
 
 Each game has the following information name gibbonsrating baverage avgweight yearpublished bggbestplayers All data here has been provided by Board Game Geek
